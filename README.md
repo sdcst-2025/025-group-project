@@ -42,9 +42,9 @@ Consider the code in the file example1.py
 
 ### 1 Assignment 
 
-Create a program that will have the user enter in important measurements for a geometric
-shape and then calculate the volume of that shape.  This will be an assignment done in groups
-of up to 3 people MAXIMUM. ( You can work individually or in pairs if you wish)
+Create a calculator of some kind. 
+
+One example could be a geometry calculator that will have the user enter in important measurements for a geometric shape and then calculate the volume of that shape.  This will be an assignment done in groups of up to 3 people MAXIMUM. ( You can work individually or in pairs if you wish)
 
 The number of people in the group will dictate how many things your calculator needs to
 be able to do:
@@ -56,6 +56,10 @@ These things can include:
 volume calculations
 surface area calculations
 area calculations
+calculations of derivatives
+interest calculations
+tax calculations
+earnings
 
 When you create your assignment, you will be asked to join or create a team.  You will need to make sure your team name is correct because you will not be able to join a different team if you spell it incorrectly.
 
@@ -71,7 +75,13 @@ Criteria:
 * The program should repeat when completed unless the user chooses to quit
 * The program should provide clear options for available commands when required
 * Each function should be documented
-* There should be some external documentation included about what the program 
+
+You will be graded on the following:
+* Have the basic criteria been met
+* Is your program appropriately broken into modules/functions?
+* How robust is your code / does it crash when incorrect data is input?
+* Do your functions make use of input parameters and appropriate return values?
+* Do you have your calculations in a separate set of functions from your input/output?
 
 
 
