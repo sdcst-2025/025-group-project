@@ -81,7 +81,6 @@ You will be graded on the following:
 * Is your program appropriately broken into modules/functions?
 * How robust is your code / does it crash when incorrect data is input?
 * Do your functions make use of input parameters and appropriate return values?
-* Do you have your calculations in a separate set of functions from your input/output?
 
 
 
